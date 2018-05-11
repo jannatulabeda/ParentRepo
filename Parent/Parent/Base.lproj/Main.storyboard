@@ -18,7 +18,7 @@
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Small-mario" translatesAutoresizingMaskIntoConstraints="NO" id="snQ-uY-tld">
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="pexels-photo-257360" translatesAutoresizingMaskIntoConstraints="NO" id="snQ-uY-tld">
                                 <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                                 <color key="backgroundColor" red="0.78368407490000003" green="0.72573548560000001" blue="0.70980036260000001" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                             </imageView>
@@ -39,6 +39,6 @@
         </scene>
     </scenes>
     <resources>
-        <image name="Small-mario" width="1473" height="1854"/>
+        <image name="pexels-photo-257360" width="525" height="350"/>
     </resources>
 </document>
